@@ -8,10 +8,12 @@ I alert two people if
 2) Their y-y-coordinates are closer than 1/10 of input image height
 
 so this is the main steps:
-1) find peoples using OpenCV HOGDescriptor
+1) find people using OpenCV HOGDescriptor
 2) apply non-maxima suppression to the bounding boxes
 3) calculate the center of each bounding box of detected persons
 4) check the distance of persons
 5) draw red bounding box for who are close
+
+
 
 
