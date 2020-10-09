@@ -14,6 +14,5 @@ so this is the main steps:
 4) check the distance of persons
 5) draw red bounding box for who are close
 
-
-
+![Result](PedestriansAlert1.jpg)
 
